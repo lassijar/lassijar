@@ -16,7 +16,7 @@ Hi! I'm a Computer Science student from Joensuu, Finland. I study geoinformatics
 ![](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-### ArcGIS Pro
+# ArcGIS Pro
 
 
 ### Contact me:
