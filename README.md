@@ -26,8 +26,8 @@ Hi! I'm a Computer Science student from Joensuu, Finland. I study geoinformatics
 [![icons8-gmail-48](https://user-images.githubusercontent.com/72581705/149047734-f01f9f63-62da-41cf-833e-d18a6ac5a823.png)][2]
 
 
-[1]: https://t.me/jussikukkonen
-[2]: mailto:jussi.kukko@gmail.com
+[1]: https://t.me/lattexsi
+[2]: mailto:lassi.jarvela@gmail.com
 
 <!--
 **lassijar/lassijar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
